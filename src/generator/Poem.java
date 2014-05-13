@@ -10,7 +10,6 @@ import java.util.StringTokenizer;
  * </p>
  * <p>
  * Copyright (c) 2014<BR>
- * Consult-Soft S.A.<BR>
  * Created on: 11/05/2014<BR>
  * 
  * @author atabares
